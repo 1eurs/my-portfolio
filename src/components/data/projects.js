@@ -44,7 +44,7 @@ const projects = [
   {
     title: "Ordering food app",
     description:
-      "Food Delivery User Interface u can add items to your baskeit !",
+      "User Interface for Food Delivery",
 
     imageSrc: img5,
 
